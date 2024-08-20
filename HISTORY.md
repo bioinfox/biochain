@@ -4,6 +4,14 @@ Changelog
 
 (unreleased)
 ------------
+
+Fix
+~~~
+- Test errors. [Huajian Mao]
+
+Other
+~~~~~
+- Release: version 0.0.2 🚀 [Huajian Mao]
 - Chore: remove useless files. [Huajian Mao]
 - Release: v0.0.1. [Huajian Mao]
 - Chore: revise permission of release script. [Huajian Mao]
